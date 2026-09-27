@@ -1,0 +1,251 @@
+AccountID,Cust_id,AccountType,Balance,AccountStatus
+1,75,Savings,119580.74,Closed
+2,117,Savings,345255.54,Dormant
+3,51,Fixed Deposit,61814.27,Active
+4,39,Loan,414182.42,Active
+5,43,Loan,299546.8,Closed
+6,74,Fixed Deposit,66555.06,Active
+7,104,Loan,252733.73,Active
+8,21,Savings,445264.33,Closed
+9,65,Savings,50206.81,Dormant
+10,148,Savings,499788.35,Active
+11,69,Savings,382738.96,Active
+12,133,Fixed Deposit,458456.03,Active
+13,150,Fixed Deposit,319218.44,Active
+14,24,Fixed Deposit,177240.72,Active
+15,27,Current,168252.81,Active
+16,74,Fixed Deposit,407715.19,Active
+17,117,Savings,160685.99,Active
+18,104,Savings,330541.89,Active
+19,106,Savings,97853.36,Active
+20,128,Fixed Deposit,381195.32,Active
+21,141,Current,464198.02,Active
+22,125,Savings,19290.37,Active
+23,62,Current,158821.32,Active
+24,105,Savings,116226.83,Closed
+25,30,Fixed Deposit,473795.07,Active
+26,40,Fixed Deposit,466663.26,Active
+27,70,Fixed Deposit,418188.35,Dormant
+28,63,Fixed Deposit,277876.21,Active
+29,131,Current,432693.33,Active
+30,107,Loan,467452.95,Active
+31,1,Loan,364395.24,Closed
+32,149,Fixed Deposit,433303.99,Active
+33,124,Loan,169557.78,Closed
+34,97,Fixed Deposit,466761.87,Closed
+35,62,Fixed Deposit,120613.41,Closed
+36,12,Loan,373629.05,Closed
+37,98,Fixed Deposit,494264.93,Closed
+38,39,Fixed Deposit,482588.1,Active
+39,85,Savings,437724.24,Active
+40,135,Fixed Deposit,12597.06,Active
+41,40,Savings,237397.85,Dormant
+42,87,Fixed Deposit,326669.14,Closed
+43,137,Fixed Deposit,477299.1,Active
+44,125,Savings,310642.43,Active
+45,74,Current,374649.35,Active
+46,26,Savings,224620.88,Active
+47,8,Savings,165565.46,Active
+48,92,Loan,218189.96,Active
+49,106,Current,89141.91,Active
+50,98,Current,251345.29,Active
+51,60,Fixed Deposit,320762.79,Active
+52,3,Fixed Deposit,451098.66,Active
+53,41,Savings,223656.24,Active
+54,77,Fixed Deposit,346705.19,Active
+55,78,Current,499689.91,Closed
+56,28,Current,193775.33,Active
+57,76,Loan,15860.1,Closed
+58,102,Loan,9008.49,Closed
+59,13,Fixed Deposit,417255.26,Dormant
+60,59,Loan,113407.25,Active
+61,65,Current,315982.81,Dormant
+62,11,Loan,395362.19,Active
+63,94,Current,49616.02,Active
+64,107,Current,104393.42,Closed
+65,94,Loan,416083.95,Active
+66,124,Loan,374546.88,Active
+67,30,Fixed Deposit,481632.18,Active
+68,58,Fixed Deposit,483798.52,Closed
+69,94,Savings,396387.57,Active
+70,138,Savings,230119.08,Active
+71,68,Fixed Deposit,412096.56,Dormant
+72,28,Current,238381.05,Active
+73,144,Loan,458051.67,Active
+74,17,Fixed Deposit,455146.88,Active
+75,105,Savings,74189.62,Dormant
+76,78,Fixed Deposit,62479.64,Active
+77,138,Current,197379.69,Active
+78,139,Fixed Deposit,295733.47,Closed
+79,107,Savings,417678.08,Active
+80,72,Savings,346688.93,Active
+81,114,Current,428447.85,Active
+82,95,Loan,34972.29,Active
+83,32,Fixed Deposit,50378.34,Active
+84,6,Savings,394463.32,Active
+85,33,Current,38962.03,Closed
+86,54,Current,407461.23,Active
+87,38,Savings,142251.05,Dormant
+88,34,Loan,400264.34,Active
+89,7,Current,12355.86,Closed
+90,61,Loan,12811.64,Active
+91,33,Fixed Deposit,265412.34,Closed
+92,122,Fixed Deposit,390118.43,Active
+93,28,Fixed Deposit,254400.15,Dormant
+94,12,Loan,231731.05,Dormant
+95,16,Fixed Deposit,424412.78,Active
+96,28,Fixed Deposit,357638.65,Active
+97,21,Loan,306107.22,Active
+98,71,Loan,193547.68,Active
+99,76,Fixed Deposit,255247.78,Active
+100,30,Current,217884.62,Closed
+101,106,Loan,414572.52,Active
+102,25,Loan,216248.18,Active
+103,96,Current,344976.41,Active
+104,24,Savings,51148.9,Active
+105,96,Current,280403.51,Active
+106,144,Loan,336656.57,Active
+107,109,Savings,484357.32,Active
+108,91,Savings,291069.67,Active
+109,124,Current,424401.05,Active
+110,143,Loan,61868.23,Active
+111,58,Fixed Deposit,423351.8,Dormant
+112,143,Savings,306452.48,Active
+113,69,Savings,94305.96,Closed
+114,80,Loan,178756.59,Active
+115,37,Fixed Deposit,39444.78,Closed
+116,8,Savings,374325.32,Active
+117,108,Fixed Deposit,173743.51,Active
+118,84,Savings,442254.38,Active
+119,13,Savings,139690.91,Active
+120,125,Fixed Deposit,210020.95,Active
+121,132,Savings,175860.56,Active
+122,125,Loan,27481.59,Active
+123,15,Savings,106189.45,Dormant
+124,36,Loan,148276.33,Active
+125,128,Fixed Deposit,91968.93,Active
+126,59,Loan,40677.37,Closed
+127,11,Fixed Deposit,14277.06,Dormant
+128,81,Fixed Deposit,288832.84,Closed
+129,107,Loan,62010.82,Active
+130,84,Current,401654.47,Active
+131,93,Savings,221172.33,Active
+132,112,Fixed Deposit,264361.46,Active
+133,80,Loan,114678.17,Closed
+134,20,Savings,267649.39,Active
+135,90,Loan,365052.66,Closed
+136,38,Current,55888.24,Active
+137,45,Current,381306.57,Active
+138,46,Fixed Deposit,234656.77,Active
+139,149,Fixed Deposit,342161.07,Closed
+140,83,Loan,79723.91,Active
+141,114,Loan,399183.19,Active
+142,91,Savings,158651.89,Active
+143,15,Loan,416689.83,Active
+144,24,Fixed Deposit,234042.27,Active
+145,11,Fixed Deposit,454979.73,Active
+146,49,Loan,304477.89,Active
+147,16,Fixed Deposit,56233.43,Closed
+148,88,Savings,254751.76,Active
+149,64,Fixed Deposit,495538.08,Active
+150,41,Loan,189561.73,Active
+151,105,Loan,341054.37,Active
+152,86,Savings,168196.92,Active
+153,99,Loan,129737.91,Closed
+154,39,Loan,45343.48,Active
+155,90,Loan,484009.77,Active
+156,101,Current,299545.41,Dormant
+157,80,Fixed Deposit,323529.17,Active
+158,33,Savings,324782.29,Active
+159,93,Savings,184485.85,Active
+160,55,Loan,474095.79,Active
+161,58,Current,81697.86,Active
+162,26,Savings,332654.97,Closed
+163,34,Fixed Deposit,81355.12,Active
+164,43,Fixed Deposit,26627.75,Active
+165,61,Fixed Deposit,307244.73,Closed
+166,115,Current,269335.52,Active
+167,121,Current,187081.27,Dormant
+168,113,Fixed Deposit,385872.08,Closed
+169,129,Fixed Deposit,483302.74,Closed
+170,36,Loan,30829.0,Active
+171,96,Savings,357143.48,Active
+172,32,Loan,46518.19,Active
+173,116,Current,416368.13,Active
+174,57,Fixed Deposit,442891.74,Dormant
+175,107,Savings,201244.71,Active
+176,99,Savings,190581.77,Active
+177,26,Loan,396733.42,Active
+178,74,Fixed Deposit,349555.63,Active
+179,121,Fixed Deposit,309597.39,Dormant
+180,5,Loan,111749.1,Active
+181,136,Fixed Deposit,60037.5,Active
+182,78,Savings,28635.98,Active
+183,118,Savings,59874.66,Dormant
+184,138,Savings,317817.7,Active
+185,37,Loan,217473.25,Active
+186,62,Fixed Deposit,97720.39,Active
+187,135,Loan,38501.26,Active
+188,130,Savings,198274.6,Active
+189,100,Loan,130556.88,Active
+190,18,Loan,124357.33,Active
+191,27,Loan,71037.75,Active
+192,87,Current,416039.91,Active
+193,123,Current,406691.35,Active
+194,118,Savings,150254.07,Active
+195,52,Savings,161219.93,Active
+196,102,Fixed Deposit,130390.31,Closed
+197,49,Loan,181702.22,Closed
+198,85,Loan,66615.13,Active
+199,103,Fixed Deposit,447845.56,Active
+200,48,Fixed Deposit,347573.9,Active
+201,133,Loan,401568.3,Closed
+202,21,Fixed Deposit,303214.38,Closed
+203,140,Loan,163999.66,Active
+204,76,Loan,225728.3,Closed
+205,43,Fixed Deposit,179015.76,Active
+206,91,Fixed Deposit,140904.9,Dormant
+207,15,Savings,337236.03,Active
+208,132,Current,476630.75,Active
+209,113,Savings,67483.86,Active
+210,94,Loan,194512.93,Active
+211,40,Fixed Deposit,474667.65,Active
+212,20,Current,267082.64,Active
+213,72,Current,480457.43,Active
+214,48,Fixed Deposit,261283.91,Dormant
+215,31,Loan,388607.42,Closed
+216,55,Loan,348520.42,Dormant
+217,52,Savings,72185.57,Active
+218,45,Fixed Deposit,498644.89,Closed
+219,82,Loan,356222.54,Active
+220,75,Loan,426424.22,Closed
+221,45,Loan,256834.09,Active
+222,52,Current,122184.41,Active
+223,93,Loan,236365.89,Dormant
+224,34,Savings,37545.31,Active
+225,123,Fixed Deposit,385736.45,Closed
+226,19,Current,486327.97,Active
+227,116,Fixed Deposit,341653.95,Active
+228,142,Current,385051.91,Active
+229,129,Savings,416538.45,Active
+230,78,Current,85173.64,Dormant
+231,58,Loan,474004.15,Active
+232,73,Savings,129049.63,Active
+233,142,Loan,66959.3,Active
+234,137,Savings,253773.71,Active
+235,149,Current,89744.31,Active
+236,87,Savings,413491.95,Active
+237,12,Loan,327309.34,Closed
+238,107,Savings,251528.84,Active
+239,75,Loan,244057.68,Closed
+240,104,Loan,229504.35,Active
+241,41,Fixed Deposit,210732.76,Active
+242,88,Current,159728.34,Closed
+243,89,Fixed Deposit,69729.25,Active
+244,144,Savings,162962.36,Active
+245,69,Fixed Deposit,127719.85,Active
+246,75,Fixed Deposit,432761.11,Active
+247,41,Loan,467207.01,Closed
+248,49,Current,251641.44,Active
+249,128,Loan,251198.29,Active
+250,101,Fixed Deposit,483509.88,Active
